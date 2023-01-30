@@ -1,0 +1,30 @@
+img {
+    height: 150px;
+    width: 150px;
+    margin-right: 20px;
+}
+body {
+    font-family: 'Aboreto', cursive;
+}
+header, section {
+    width: 960px;
+    margin: 0 auto;
+}
+header{
+    display:flex;
+}
+section{
+    display: flex;
+}
+article{
+    width: 70%;
+}
+aside{
+    width: 40%;
+}
+body {
+    background-color: brown;
+}
+header{
+    background-color: rgb(224, 10, 10);
+}
